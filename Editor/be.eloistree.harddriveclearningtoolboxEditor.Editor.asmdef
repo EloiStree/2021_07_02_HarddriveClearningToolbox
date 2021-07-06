@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.harddriveclearningtoolboxEditor",          
+    "references": ["be.eloistree.harddriveclearningtoolbox"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
